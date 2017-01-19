@@ -6,7 +6,9 @@ Project created on Eclipse Neon. The binary is created in the bin folder.
 Compilation Instructions:
 
 autoreconf -fvi
+
 ./configure
+
 make
 
 For install command type: sudo make install
