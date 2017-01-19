@@ -13,4 +13,3 @@ make
 
 For install command type: sudo make install
 
-The binary
